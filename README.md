@@ -6,7 +6,7 @@ This repository contains three source codes of Multiswitch_Grafana_panel_plugin:
 - module.ts
 
 # 
-- You can find more information about the plugin in this repository: https://github.com/OndrejKnebl/Multiswitch_Grafana_panel_plugin
+- You can find more information about the plugin and ready plugin for import into your Grafana in this repository: https://github.com/OndrejKnebl/Multiswitch_Grafana_panel_plugin
 - More information about creating or importing the Grafana panel plugin for sending downlinks on the site: https://lora.vsb.cz/index.php/grafana-panel-plugin-for-sending-downlinks/
 
 # More information about Multifunctional Switching Device
